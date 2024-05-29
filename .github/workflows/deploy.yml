@@ -1,4 +1,4 @@
-name: deploy test-deploy
+name: deploy test-deploy1
 on: [push]
 jobs:
     Deploy:
