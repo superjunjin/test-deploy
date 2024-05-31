@@ -6,6 +6,7 @@
       check out the
       <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
       hello imooccc
+      hello imooccc2222
     </p>
     <h3>Installed CLI Plugins</h3>
     <ul>
