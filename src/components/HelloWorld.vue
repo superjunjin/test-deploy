@@ -7,7 +7,7 @@
       <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
       hello imooccc
       hello imooccc2222
-      hello smee测试4
+      hello smee测试5
     </p>
     <h3>Installed CLI Plugins</h3>
     <ul>
