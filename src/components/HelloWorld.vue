@@ -8,6 +8,7 @@
       hello imooccc
       hello imooccc2222
       hello smee测试5
+      test-deploy成功
     </p>
     <h3>Installed CLI Plugins</h3>
     <ul>
