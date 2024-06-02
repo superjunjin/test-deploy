@@ -12,6 +12,7 @@
       test-deplo远程部署成功
       禁用GitHub Actions后的远程部署成功
       cli-imooc coit
+      docker
     </p>
     <h3>Installed CLI Plugins</h3>
     <ul>
